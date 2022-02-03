@@ -3,7 +3,7 @@ The project involves building a live interactive analytics dashboard using extra
 The main library used for this project is the dash module from Plotly combined with Pandas.
 The outcome is to build a dashboard that provides real time analytics of Covid-19 incidence around the world using advanced visualizations.
 
-collab: https://colab.research.google.com/drive/1ZT3G-HQiVkkZ34pBdN6029DwWZxokDK_#scrollTo=_37zaf8P1kmB
+Google Collab: https://colab.research.google.com/drive/1ZT3G-HQiVkkZ34pBdN6029DwWZxokDK_#scrollTo=_37zaf8P1kmB
 
 
 
